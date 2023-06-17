@@ -1,2 +1,4 @@
  Hi Hello 
  this content of the new repo 
+
+ The git commit command creates a new commit with all files that have been “added”. The -m (or --message) sets the message that will be included alongside the commit, used for future reference to understand the commit. In this case, the message is: 'Added my project'.
